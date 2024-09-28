@@ -1,0 +1,1 @@
+		fmt.Scan(&a[i])
